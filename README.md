@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 👋 i am parham.
 
-<!--
-**parram1386/parram1386** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+frontend Developer
 
-Here are some ideas to get you started:
+I am a passionate software developer who loves building things that live on the internet. I thrive on learning new technologies and solving complex problems with clean, efficient code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages| javascript
+**Frontend| Tailwind CSS, HTML/CSS
+
+<p align="left">
+  <a href="mailto:[parhamramin5@gmail.com
+]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="[Your-Name]" height="30" width="40" /></a>
+</p>
+
+
+
+- I’m currently working on a Website Template/Theme.
+- I’m currently learning js.
